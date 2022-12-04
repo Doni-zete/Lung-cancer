@@ -1,1 +1,1 @@
-# Lung-cancer
+# Conjunto de dados exploratorios
